@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "kamertrade",
+    "packageName": "com.prospero.kamertrade",
+    "packageFolder": "com/prospero/kamertrade",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.0",
+    "jwtSecretKey": "MGE5MjE4YzM1MGRlZmZlNGRkMWQ3MDg0MTVlYTA0ODI4MjkxZmYzZWRlOWYyMWRmNzBjNjZiMzg2YjBlZDYyZDdkZGVlZjU0MjJmNjMwNjkxM2I3NzA0MzU4MGFjOThmMThjZmQxMjlmMjU4OTJlODVmMTQxMWIwNTA2M2RlN2U=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Dr7Dking",
+  "repository-name": "kamertrade"
+}
